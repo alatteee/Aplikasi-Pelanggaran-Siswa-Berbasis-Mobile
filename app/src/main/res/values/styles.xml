@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MyAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/purple_200</item>
+    </style>
+
+    <style name="Widget.MaterialComponents.Toolbar.Primary">
+        <item name="background">@color/purple_200</item>
+    </style>
+</resources>
